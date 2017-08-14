@@ -3,6 +3,5 @@
     "type": "php-class",
     "description": "Simple example of php view -- MVC, пример реализации представляения, отделения php от html",
     "keywords": ["php", "itforfree", "mvc", "view", "html"],
-    "homepage": "http://fkn.ktu10.com/node/7716",
-    "target-dir": "ItForFree/PhpExamples"
+    "homepage": "http://fkn.ktu10.com/node/7716"
 }
