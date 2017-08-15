@@ -7,7 +7,7 @@
     
     "autoload": {
         "psr-4": {
-            "ItForFree\\PhpExamples\\MVC\\": "MVC/"
+            "ItForFree\\PhpExamples\\": ""
         }
     }
 }
